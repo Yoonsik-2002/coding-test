@@ -1,3 +1,2 @@
-num = input()
-num = int(num, 16)
+num = int(input(), 16)
 print('%o' % num)
