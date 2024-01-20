@@ -40,5 +40,9 @@ python에서 문자열을 만드는 방법은 다양하다. 아래 정리를 한
 
 - ##### 4) 문자열에 큰 따옴표 넣기
   ![스크린샷(5)](https://github.com/Yoonsik-2002/conding-test/assets/83572199/45e7dedf-fb2e-405f-956c-f267ccb060c6)
+<br>
 
+---
+
+<br><br>
  
