@@ -1,3 +1,3 @@
 n = input()
-n = int(n)
+n = int(n
 print(n)
