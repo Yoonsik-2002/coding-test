@@ -167,6 +167,13 @@ python은 명령 프롬프트에서 사용자로부터 데이터를 입력받을
   아래와 같이, `input().split()`함수를 통해 만들어지는 문자열 리스트의 요소의 개수와 해당 리스트의 요소를 할당받을 변수의 개수를 똑같이 해 주어야 위와 같은 에러가 발생하지 않는다.<br>
 
   ![스크린샷(9)](https://github.com/Yoonsik-2002/conding-test/assets/83572199/f6aaabe4-d2f3-43f9-8b3f-99ad8ac1b3e0)<br>
+  <br>
+
+  또, 위 코드를 이해한 경우, 이를 활용하여, 아래와 같은 코드 또한 작성이 가능하다.<br>
+
+  ![스크린샷(10)](https://github.com/Yoonsik-2002/conding-test/assets/83572199/fa08a505-9175-422f-8eb0-840278377a7c)<br>
+  <br>
+  
 
 
     
