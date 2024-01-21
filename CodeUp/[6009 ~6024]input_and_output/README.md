@@ -98,9 +98,9 @@ python은 명령 프롬프트에서 사용자로부터 데이터를 입력받을
 
   ![스크린샷(7-1)](https://github.com/Yoonsik-2002/conding-test/assets/83572199/38c09133-c6ab-4bac-8316-d4bf0e4bec60)<br>
 
-  ---
+---
 
-  <br><br>
+<br><br>
 
 # [코드업 100제] 입출력 - 6012
 [문제 링크](https://codeup.kr/problem.php?id=6012)
