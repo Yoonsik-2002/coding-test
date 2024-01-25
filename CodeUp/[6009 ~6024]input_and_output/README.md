@@ -330,7 +330,22 @@ for 반복자 in 반복할 수 있는 것(iterable) :
 
 <br><br>
 
-  
+# [코드업 100제] 입출력 - 6018
+[문제 링크](https://codeup.kr/problem.php?id=6018)
+
+python에서 `sep`은 분류기호(seperator)을 의미한다.<br>
+
+`sep`은 `print()`함수에서 사용되는 매개변수로, 출력할 여러 값들 사이에 삽입되는 구분자를 지정하는 역할을 한다.<br>
+- ex) `sep=' '`, `sep=':'`, 'sep='\'` 등
+
+이러한 `sep`을 활용하여, 24시간 `시:분` 형식으로 시간이 입력될 때, 해당 입력값을 그대로 출력해주는 코드륵 작성해보면, 다음과 같다.<br>
+
+![스크린샷(6)](https://github.com/Yoonsik-2002/conding-test/assets/83572199/cca33ceb-a96e-4bd1-b23c-bf2525b14625)<br>
+
+---
+
+<br><br>
+
 
 
 
