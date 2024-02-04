@@ -85,7 +85,7 @@ a, b = map(int, input().split())
 
 python에서 10진수 형태로 입력받고, `%x`로 출력하면, 16진수로 변환되어 출력된다. 10진수의 값을 입력받고, 이를 16진수로 변환하여 출력해주는 코드는 다음과 같다.<br>
 
-![스크린샷(2)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/b5aebeb6-6476-484d-a904-fac925b0b81f)<br>
+![스크린샷(7)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/003e1d67-c186-47b5-a1f5-9b7feccac811)<br>
 
 `int(input())`을 통해, 입력과 동시에 입력받은 값을 `int`형으로 형변환한 뒤, 변수 `num`에 저장하였다.<br>
 
@@ -111,12 +111,12 @@ print('%x' %num)
 
 10진수 형태로 입력받고, 16진수를 타나내는 형식 지정자 `%X`로 출력하면, 16진수 대문자로 출력된다.<br>
 
-![스크린샷(4)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/7f32d9e8-ac96-45ab-b4db-40eaed9ed7bc)<br>
+![스크린샷(9)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/705ea313-cc91-415e-9595-a7b9df3d3891)<br>
 <br>
 
 해당 코드에서 아래와 같이 16진수를 나타내는 형식 지정자를 소문자 `x`로 변경하여, `%x`로 출력하면, 16진수 소문자로 출력된다.<br>
 
-![스크린샷(5)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/c512969b-e9d5-4409-ba35-abef7d633105)<br>
+![스크린샷(8)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/b11d5017-1b44-4e89-823b-d27d8817fad5)<br>
 
 ---
 
