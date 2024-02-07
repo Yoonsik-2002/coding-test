@@ -28,4 +28,18 @@ python에서 `문자열 * 정수`, `정수 * 문자열`은 그 문자열을 정�
 
 <br><br>
 
+# [코드업 100제] 산술연산 - 6038
+[문제 링크](https://codeup.kr/problem.php?id=6038)
+
+정수 2개를 입력받아, `a`를 `b`번 곱한 거듭제곱을 출력하는 프로그램 작성하기<br>
+
+python에서 거듭제곱을 계산하기 위해서는 `**`연산자를 사용한다.<br>
+
+![스크린샷(1)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/ad793c5b-51b8-429b-8e16-1eb3d8179cbe)<br>
+
+---
+
+<br><br>
+
+
 
