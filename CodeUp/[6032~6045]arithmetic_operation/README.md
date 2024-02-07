@@ -56,6 +56,20 @@ python에서는 나눈 몫을 계산하는 연산자 `//`을 제공한다.<br>
 
 <br><br>
 
+# [코드업 100제] 산술연산 - 6041
+[문제 링크](https://codeup.kr/problem.php?id=6041)
+
+정수 2개를 입력받아, 나눈 나머지 출력하기<br>
+
+python에서는 나눈 나머지를 계산하는 연산자 `%`를 제공한다.<br>
+
+`a % b`를 계산하면, `a`를 `b`로 나눈 나머지를 계산해준다.<br>
+
+![스크린샷(3)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/b64211d5-9f42-48c8-9c11-d786db0f98b3)<br>
+
+---
+
+<br><br>
 
 
 
