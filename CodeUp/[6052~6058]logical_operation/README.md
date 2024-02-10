@@ -20,10 +20,13 @@
   참 또는 거짓의 논리값을 역(반대)으로 바꾸기 위해서 `not`예약어를 사용할 수 있다. 이러한 논리연산을 NOT연산이라 부르기도 한다.<br>
 
   이러한 `not`예약어를 `boolean`값이나 변수에 붙여, `not True`, `not False`, `not 변수`와 같은 계산을 하는 것이 가능하다.<br>
-<br>
 
 - ###### `boolean`값을 다루어 주는 예약어
   참, 거짓의 논리값인 `bool`값을 다루어주는 예약어로는 `not`, `or`, `and`가 있다.<br>
 <br>
 
-![스크린샷(2)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/a3ce786c-02d6-42ab-950c-2978cf53aa65)
+![스크린샷(2)](https://github.com/Yoonsik-2002/coding-test/assets/83572199/a3ce786c-02d6-42ab-950c-2978cf53aa65)<br>
+
+---
+
+<br><br>
