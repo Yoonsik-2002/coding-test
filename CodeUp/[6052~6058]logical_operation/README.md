@@ -30,3 +30,32 @@
 ---
 
 <br><br>
+
+# [코드업 100제] 논리연산 - 6058
+[문제 링크](https://codeup.kr/problem.php?id=6058)<br>
+
+2개의 정수값이 입력될 때, 그 `boolean`값이 모두 `False`일 때에만 `True`를 출력하는 프로그램<br>
+
+해당 프로그램을 작성해 보면, 아래와 같이 작성하는 것이 가능하다.<br>
+
+```python
+num1, num2 = map(int, input().split())
+num1 = bool(num1)
+num2 = bool(num2)
+print(not num1 and not num2)  # print(not(num1 or num2))
+```
+
+이때, 주석의 `print(not(num1 or num2))`를 한번 보도록 하자.<br>
+
+- ###### 예약어 `or`이 `True`를 반환하는 경우
+  예약어 `or`은 둘 중의 하나라도 `True`이거나, 둘 다 `True`인 경우, `True`를 반환한다. 해당 코드의 경우, `not()`에 의해, 그 반대인 `False`가 반환되게 된다.<br>
+
+- ###### 예약어 `or`이 `False`를 반환하는 경우
+  또, 예약어 `or`은 둘 다 `False`인 경우엔 `False`를 반환한다. 마찬가지로, 해당 코드의 경우, `not()`에 의해, 그 반대인 `True`가 반환되게 된다.<br>
+
+  즉, 두 값이 모두 `False`일 때, `True`를 반환하게 되는 것이다.<br>
+  그러므로, `print(not num1 and not num2)`를 대신해서 사용하는 것이 가능하게 된다.<br>
+
+---
+
+<br><br>
